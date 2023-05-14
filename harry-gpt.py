@@ -24,7 +24,7 @@ n_layer = 8
 dropout = 0.2
 # ------------
 
-with open('combined_books.txt', encoding='utf8') as fp:
+with open('data/combined_books.txt', encoding='utf8') as fp:
     books = fp.read()
 
 print('length of data is ',len(books))
