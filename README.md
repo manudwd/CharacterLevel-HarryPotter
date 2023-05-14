@@ -3,6 +3,7 @@ A character level based generation of harry potter like text using transformer.
 
 This is a decoder only based architecture to generate from the beloved Harry Potter Franchise by J.K Rowling.
 
+# Results
 Some Preliminary Results are here:
 ```
 Blation crunced. 
